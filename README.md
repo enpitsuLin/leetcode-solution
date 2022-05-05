@@ -1,13 +1,6 @@
 # leetcode 刷题
 
-
-主要使用Python3、JavaScript语言解题，偶尔穿插C\C++、Ruby等语言>_<
-
-尽可能把刷过的题目都存储一份（~~刷github活跃~~）
-
-## 个人进度
-
-**已解决 33/1812 - 简单 24 中等 6 困难 3**
+主要使用 Python3、JavaScript 语言解题，可能会有 rust、 C\C++、Ruby 等语言>\_<
 
 ## 每日一题
 
